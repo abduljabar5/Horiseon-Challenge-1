@@ -10,9 +10,7 @@ https://abduljabar5.github.io/Horiseon-Challenge-1/
 
 click on any of the opions on the top of the page to read more about them.
 
-```md
-    ![alt text](/Users/abduljabar/challenge1/assets/Horiseon-Challenge-1/assets/images/Screen Shot 2022-10-27 at 10.05.07 PM.png)
-    ```
+    ![the img is a screen shot of the top of the website.](/Users/abduljabar/challenge1/assets/Horiseon-Challenge-1/assets/images/Screen Shot 2022-10-27 at 10.05.07 PM.png)
 
 ## Credits
 
@@ -47,4 +45,3 @@ Footer
 © 2022 GitHub, Inc.
 Footer navigation
 
-![Screenshot](/Users/abduljabar/challenge1/assets/Horiseon-Challenge-1/assets/images/Screen Shot 2022-10-27 at 10.05.07 PM.png)
