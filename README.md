@@ -1,10 +1,6 @@
 # <Horiseon-Challenge-1>
 
-
-## Description
-
-this project is to fix any issues with this website. this includes thing that are noticeable like links not working and things that dont effect the users expericence. I did this so anyone who is navigating the website or souorce can do so with as little truoble as possible. i did this by implamenting changes to the HTML and CSS files. during this project, i learned a few things like how to a link and how hard understanding the html file was when everything is taged in<div>.
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This project was a little tricky, but what kept me motivated was the little changes I saw happen to the website as I fixed some issues. The purpose of this project was to fix any issues with this website. This includes things that are noticeable like links not working and things that don't affect the user's experience. I did this so anyone navigating the website or source can do so with as little trouble as possible. I did this by implementing changes to the HTML and CSS files. During this project, I learned a few things like how to add a link and how hard understanding the HTML file was when everything is tagged in<div>.
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
