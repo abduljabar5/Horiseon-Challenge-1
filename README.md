@@ -1,5 +1,5 @@
 # <Horiseon-Challenge-1>
-
+## Discription
 This project was a little tricky, but what kept me motivated was the little changes I saw happen to the website as I fixed some issues. The purpose of this project was to fix any issues with this website. This includes things that are noticeable like links not working and things that don't affect the user's experience. I did this so anyone navigating the website or source can do so with as little trouble as possible. I did this by implementing changes to the HTML and CSS files. During this project, I learned a few things like how to add a link and how hard understanding the HTML file was when everything is tagged in<div>.
 
 ## Installation
@@ -10,7 +10,9 @@ https://abduljabar5.github.io/Horiseon-Challenge-1/
 
 click on any of the opions on the top of the page to read more about them.
 
-![alt text](/Users/abduljabar/challenge1/assets/Horiseon-Challenge-1/assets/images/Screen Shot 2022-10-27 at 10.05.07 PM.png)
+```md
+    ![alt text](/Users/abduljabar/challenge1/assets/Horiseon-Challenge-1/assets/images/Screen Shot 2022-10-27 at 10.05.07 PM.png)
+    ```
 
 ## Credits
 
@@ -44,3 +46,5 @@ SOFTWARE.
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
+
+![Screenshot](/Users/abduljabar/challenge1/assets/Horiseon-Challenge-1/assets/images/Screen Shot 2022-10-27 at 10.05.07 PM.png)
